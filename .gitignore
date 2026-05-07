@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env.*
+!.env.example
+outputs/
+samples/*
+!samples/.gitkeep
