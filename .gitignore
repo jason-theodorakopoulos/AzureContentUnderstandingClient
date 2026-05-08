@@ -7,5 +7,4 @@ venv/
 .env.*
 !.env.example
 outputs/
-samples/*
 !samples/.gitkeep
